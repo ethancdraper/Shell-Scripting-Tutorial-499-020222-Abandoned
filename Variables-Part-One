@@ -18,3 +18,7 @@ echo "Hello $MY_NAME - hope you're well."
 echo "MYVAR is: $MYVAR"
 MYVAR="hi there"
 echo "MYVAR is: $MYVAR"
+
+$ ./myvar2.sh
+MYVAR is:
+MYVAR is: hi there
