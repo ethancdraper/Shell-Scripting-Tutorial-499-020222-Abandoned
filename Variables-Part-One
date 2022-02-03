@@ -36,3 +36,12 @@ MYVAR is: hi there
 $ echo $MYVAR
 hello
 $
+
+$ MYVAR=hello
+$ echo $MYVAR
+hello
+$ . ./myvar2.sh
+MYVAR is: hello
+MYVAR is: hi there
+$ echo $MYVAR
+hi there
