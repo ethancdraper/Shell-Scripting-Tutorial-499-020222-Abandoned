@@ -13,3 +13,8 @@ MY_MIXED=123abc
 echo What is your name?
 read MY_NAME
 echo "Hello $MY_NAME - hope you're well."
+
+#!/bin/sh
+echo "MYVAR is: $MYVAR"
+MYVAR="hi there"
+echo "MYVAR is: $MYVAR"
