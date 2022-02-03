@@ -8,3 +8,8 @@ MY_NUMBER=1
 MY_PI=3.142
 MY_OTHER_PI="3.142"
 MY_MIXED=123abc
+
+#!/bin/sh
+echo What is your name?
+read MY_NAME
+echo "Hello $MY_NAME - hope you're well."
