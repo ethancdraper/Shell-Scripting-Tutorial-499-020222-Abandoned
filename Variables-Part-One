@@ -22,3 +22,8 @@ echo "MYVAR is: $MYVAR"
 $ ./myvar2.sh
 MYVAR is:
 MYVAR is: hi there
+
+$ MYVAR=hello
+$ ./myvar2.sh
+MYVAR is:
+MYVAR is: hi there
