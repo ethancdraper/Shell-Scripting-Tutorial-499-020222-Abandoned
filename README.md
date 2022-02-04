@@ -4,3 +4,5 @@ This is in accordance with 499 Replicability in MRI Research (Winter 2022)
 Up to the third code should be completed by 020322
 
 After completing the first five modules of the Linnux Shell Scripting tutorial, I looked at the table of contents and saw that there was only one code ("A First Code"). I think there might have been a miscommunication as there are no more code sections to my knowledge. Will discuss tomorrow in class.
+
+Discussed in class. Tutorial assumes more scripting knowledge than I currently had. Also I did all of it in Atom instead of a terminal so it didn't do anything.
